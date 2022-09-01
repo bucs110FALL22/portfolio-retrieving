@@ -14,5 +14,4 @@ Preferred Name: Jared
 
 Discord username: jrd#2600
 
-REPL url: https://replit.com/join/utoovhtvrk-horrify
-
+REPL url: https://replit.com/join/djukmzprkr-horrify

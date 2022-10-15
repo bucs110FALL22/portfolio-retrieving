@@ -64,4 +64,3 @@ drawshape(6, SIDE_LENGTH, OFF_SET)
 drawshape(9, SIDE_LENGTH, OFF_SET)
 drawshape(360, SIDE_LENGTH, OFF_SET)
 
-window.exitonclick()
